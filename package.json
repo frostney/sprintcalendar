@@ -33,10 +33,12 @@
     "copyfiles": "^0.2.1",
     "css-loader": "^0.23.0",
     "eslint": "^1.2.1",
+    "eslint-config-airbnb": "^2.0.0",
     "eslint-loader": "^1.0.0",
     "eslint-plugin-react": "^3.3.0",
     "file-loader": "^0.8.4",
     "glob": "^6.0.0",
+    "husky": "^0.10.2",
     "isparta-instrumenter-loader": "^1.0.0",
     "karma": "^0.13.9",
     "karma-chai": "^0.1.0",
@@ -61,12 +63,13 @@
   },
   "dependencies": {
     "core-js": "^1.2.6",
+    "less": "^2.5.3",
+    "less-loader": "^2.0.0",
     "lodash": "^3.10.1",
     "normalize.css": "^3.0.3",
     "react": "^0.14.0",
     "react-addons-test-utils": "^0.14.0",
-    "react-dom": "^0.14.0",
-    "less-loader": "^2.0.0",
-    "less": "^2.5.3"
+    "react-big-calendar": "^0.9.5",
+    "react-dom": "^0.14.0"
   }
 }
