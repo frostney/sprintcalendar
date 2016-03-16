@@ -1,2 +1,2 @@
-parser: babel-eslint
 extends: airbnb
+parser: babel-eslint
